@@ -1,7 +1,5 @@
 <h1>Hi, I'm Thiago 🧙🏼‍♂️</h1> 
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZ3cTY0dnJienNnZXFnMjRoczBvcGxtc3BrNnQzaTI5bHhjb290cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7SnByEMkrdeoVQ2lT/giphy.gif"/>
-
 ```diff
 +I'm a software engineer 👨🏼‍💻
 +I live in São Paulo, Brazil 🌎
