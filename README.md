@@ -78,5 +78,3 @@ And the greatest joy of coding is solving problems, giving the code a reason to 
 
 ---
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tndanjos&label=Profile%20views&color=0e75b6&style=flat" alt="tndanjos" /> </p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
