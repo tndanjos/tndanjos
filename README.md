@@ -19,6 +19,7 @@ And the greatest joy of coding is solving problems, giving the code a reason to 
 <h2>Connect with me 💬</h3>
 
 <a href="https://linkedin.com/in/thiagondanjos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiagondanjos" height="30" width="40" /></a>
+<a href="https://t.me/thiagonda" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="tndanjos" height="30" width="40" /></a>
 <a href="https://discord.gg/27UDF4E7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asddas" height="30" width="40" /></a>
 <a href="https://instagram.com/thiagondanjos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiagondanjos" height="30" width="40" /></a>
 <a href="https://twitter.com/tndanjos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tndanjos" height="30" width="40" /></a>
