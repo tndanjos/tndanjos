@@ -11,8 +11,7 @@
 
 <h2>🚀 Motivation</h2>
 
-A programmer's true motivation lies in the code.
-And the greatest joy of coding is solving problems, giving the code a reason to exist.
+"A programmer’s true motivation lies in the code, and the greatest joy of coding is solving problems that give the code its purpose."
 
 <h2>Connect with me 💬</h3>
 
