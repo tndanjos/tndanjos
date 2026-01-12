@@ -63,16 +63,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
 
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tndanjos&show_icons=true&locale=en" alt="tndanjos" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tndanjos&show_icons=true&locale=en&layout=compact" alt="tndanjos" />
-</div>
-
----
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tndanjos" alt="tndanjos" /></a>
-
----
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tndanjos&label=Profile%20views&color=0e75b6&style=flat" alt="tndanjos" /> </p>
