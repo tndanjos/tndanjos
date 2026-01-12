@@ -3,8 +3,8 @@
 ```diff
 +I'm a software engineer 👨🏼‍💻
 +I live in São Paulo, Brazil 🌎
--38 years old 🎂
-+ I'm currently learning Go, Apache Kafka, Rabbitmq 🌱
+-39 years old 🎂
++ I'm currently learning Artificial intelligence, Apache Kafka, Rabbitmq 🌱
 + You can contact me at thiagonanjos@gmail.com 📫
 + My skills involve code and bad jokes 🙇🏻‍♂️
 ```
